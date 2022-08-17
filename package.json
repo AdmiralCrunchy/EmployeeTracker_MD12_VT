@@ -1,0 +1,29 @@
+{
+  "name": "employeetracker_md12_vt",
+  "version": "1.0.0",
+  "description": "This was a homework module for the University of Washington Coding Bootcamp that is/was due 07/28/2022. The main objective of the module was to create a a interface that the user can interact with, within the console. This assignment uses a combination of Inquirer, Node &amp; MySQL in order to create a Content Management Systems. Since this project isn't being deployed there will be a video link provided showcasing the functionality of the project first hand.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdmiralCrunchy/EmployeeTracker_MD12_VT.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdmiralCrunchy/EmployeeTracker_MD12_VT/issues"
+  },
+  "homepage": "https://github.com/AdmiralCrunchy/EmployeeTracker_MD12_VT#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "fs": "^0.0.1-security",
+    "inquirer": "^8.2.4",
+    "map": "^1.0.1",
+    "mysql2": "^2.3.3",
+    "promise": "^8.1.0",
+    "sync-sql": "^1.0.2"
+  }
+}
