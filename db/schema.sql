@@ -22,6 +22,9 @@ CREATE TABLE employees (
     role_id INT,
     FOREIGN KEY (role_id)
     REFERENCES roles(id),
-    manager_id INT);
+    manager_id INT,
+    department_id INT,
+    FOREIGN KEY (department_id)
+    REFERENCES department(id));
 
 SOURCE seeds.sql;
