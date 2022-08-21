@@ -4,6 +4,10 @@ This was a homework module for the University of Washington Coding Bootcamp that
 
 ## Screenshots
 
+![Assignment photo 02](https://user-images.githubusercontent.com/31176226/185780306-5ddef542-6afe-4006-a3e6-e0176ceaf59c.PNG)
+![Assignment photo](https://user-images.githubusercontent.com/31176226/185780308-fb19792e-e11a-412c-8a40-77442686b2b7.PNG)
+![Capture](https://user-images.githubusercontent.com/31176226/185780310-ebbd107c-4a4b-433f-8713-6f8caa2f616c.PNG)
+
 ## Confidence
 
 This one took me way longer than it really should have but now I feel much more comfortable with with database manipulation. Almost caught up with the rest of the assignments! Super excited really feels like I am absorbing this information.
